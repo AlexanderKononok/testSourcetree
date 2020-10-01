@@ -13,6 +13,7 @@ class SecondViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         title = "Orange Controller"
+      let testString = "TEST"
     }
     
     @IBAction func showGreenButtonPressed(_ sender: Any) {
